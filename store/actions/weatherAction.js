@@ -9,7 +9,7 @@ export const setLoading = () => {
 
 export const getTemperature = (lat, lon) => async dispatch => {
     try {
-        const response = await axios.get(`http://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=f5d7001007f1d3fe599aaa084669c2e6&units=metric`);
+        const response = await axios.get(`http://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=[YOUR_APP_ID_HERE]&units=metric`);
         const data = await response.data
         dispatch({
             type: GET_TEMPERATURE,
@@ -26,7 +26,7 @@ export const getTemperature = (lat, lon) => async dispatch => {
 
 export const getWeatherByCity = (cityName) => async dispatch => {
     try {
-        const response = await axios.get(`http://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=f5d7001007f1d3fe599aaa084669c2e6`);
+        const response = await axios.get(`http://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=[YOUR_APP_ID_HERE]`);
         const data = await response.data;
         const coord = data.coord;
         dispatch({
@@ -41,7 +41,7 @@ export const getWeatherByCity = (cityName) => async dispatch => {
 
 export const getTemperatureByCity = (q) => async dispatch => {
     try {
-        const response = await axios.get(`http://api.openweathermap.org/data/2.5/weather?q=${q}&appid=f5d7001007f1d3fe599aaa084669c2e6&units=metric`);
+        const response = await axios.get(`http://api.openweathermap.org/data/2.5/weather?q=${q}&appid=[YOUR_APP_ID_HERE]&units=metric`);
         const data = await response.data
         dispatch({
             type: GET_TEMPERATURE_BY_CITY,
@@ -58,7 +58,7 @@ export const getTemperatureByCity = (q) => async dispatch => {
 
 export const getTodayWeather = (lat, lon) => async dispatch => {
     try {
-        const response = await axios.get(`http://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lon}&appid=f5d7001007f1d3fe599aaa084669c2e6&units=metric`);
+        const response = await axios.get(`http://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lon}&appid=[YOUR_APP_ID_HERE]&units=metric`);
         const data = await response.data;
         const hourly = data.hourly;
         dispatch({
@@ -80,7 +80,7 @@ export const getTodayWeatherByCity = (lat, lon) => async dispatch => {
 
 export const getWeekendWeather = (lat, lon) => async dispatch => {
     try {
-        const response = await axios.get(`http://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lon}&appid=f5d7001007f1d3fe599aaa084669c2e6&units=metric`);
+        const response = await axios.get(`http://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lon}&appid=[YOUR_APP_ID_HERE]&units=metric`);
         const data = await response.data;
         const daily = data.daily;
         dispatch({

@@ -1,10 +1,6 @@
 ### ReactNative ###
 # React Native Stack Base
 
-.expo-shared/*
-
-
-
 .expo
 __generated__
 
