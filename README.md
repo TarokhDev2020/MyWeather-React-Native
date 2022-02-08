@@ -5,7 +5,7 @@ MyWeather is a location-aware weather app. It will find out where you are in the
 
 ## Screenshots
 
-<a href='https://postimg.cc/6yHHpYXQ' target='_blank'><img src='https://i.postimg.cc/6yHHpYXQ/Simulator-Screen-Shot-i-Phone-11-2021-01-04-at-12-05-11.png' border='0' alt='MyWeather-React-Native' width="250"/></a>
+<a href='Simulator Screen Shot - iPhone 11 - 2021-01-04 at 12 05 11' target='_blank'><img src='https://user-images.githubusercontent.com/72879576/153024255-f99b3d7e-fb3c-42ec-b1af-7df94b5f9a8c.png' border='0' alt='MyWeather-React-Native' width="250"/></a>
 
 <a href='https://postimg.cc/68jFFB3Y' target='_blank'><img src='https://i.postimg.cc/68jFFB3Y/Simulator-Screen-Shot-i-Phone-11-2021-01-04-at-12-05-28.png' border='0' alt='MyWeather-React-Native' width="250"/></a>
 
@@ -13,9 +13,13 @@ MyWeather is a location-aware weather app. It will find out where you are in the
 
 <a href='https://postimg.cc/62wSvq16' target='_blank'><img src='https://i.postimg.cc/62wSvq16/Simulator-Screen-Shot-i-Phone-11-2021-01-04-at-12-10-02.png' border='0' alt='MyWeather-React-Native' width="250"/></a>
 
-<a href='https://postimg.cc/FfhgbSm6' target='_blank'><img src='https://i.postimg.cc/FfhgbSm6/Simulator-Screen-Shot-i-Phone-11-2021-01-04-at-12-10-17.png' border='0' alt='MyWeather-React-Native' width="250"/></a>
+<a href='Simulator Screen Shot - iPhone 11 - 2021-01-04 at 12 10 02' target='_blank'><img src='https://user-images.githubusercontent.com/72879576/153024740-f0c2aced-6450-4e06-94f0-fcf2321ae0a6.png' border='0' alt='MyWeather-React-Native' width="250"/></a>
 
-<a href='https://postimg.cc/HJS5QP6J' target='_blank'><img src='https://i.postimg.cc/HJS5QP6J/Simulator-Screen-Shot-i-Phone-11-2021-01-04-at-12-05-40.png' border='0' alt='MyWeather-React-Native' width="250"/></a>
+<a href='Simulator Screen Shot - iPhone 11 - 2021-01-04 at 12 10 17' target='_blank'><img src='https://user-images.githubusercontent.com/72879576/153024796-bf41552e-c6e5-4eea-b321-2e37c7db0f2c.png' border='0' alt='MyWeather-React-Native' width="250"/></a>
+
+<a href='Simulator Screen Shot - iPhone 11 - 2021-01-04 at 12 05 52' target='_blank'><img src='https://user-images.githubusercontent.com/72879576/153025065-5961126a-ff74-4e9b-9336-39c61b1f0795.png' border='0' alt='MyWeather-React-Native' width="250"/></a>
+
+<a href='Simulator Screen Shot - iPhone 11 - 2021-01-04 at 12 05 40' target='_blank'><img src='https://user-images.githubusercontent.com/72879576/153025103-7a1be0b4-c1c3-4ef8-ac30-94b17e7a91df.png' border='0' alt='MyWeather-React-Native' width="250"/></a>
 
 
 ## Dependencies
