@@ -5,7 +5,7 @@ MyWeather is a location-aware weather app. It will find out where you are in the
 
 ## Screenshots
 
-<a href='Simulator Screen Shot - iPhone 11 - 2021-01-04 at 12 05 11' target='_blank'><img src='https://user-images.githubusercontent.com/72879576/153024255-f99b3d7e-fb3c-42ec-b1af-7df94b5f9a8c.png' border='0' alt='MyWeather-React-Native' width="250"/></a>
+<a href='Simulator Screen Shot - iPhone 11 - 2021-01-04 at 11 55 16' target='_blank'><img src='https://user-images.githubusercontent.com/72879576/153027837-33a8d2c1-6a59-4324-95c6-e4012b6bc12c.png' border='0' alt='MyWeather-React-Native' width="250"/></a>
 
 <a href='Simulator Screen Shot - iPhone 11 - 2021-01-04 at 11 56 29' target='_blank'><img src='https://user-images.githubusercontent.com/72879576/153027254-45238d47-db88-4858-afba-3cbac3ccf42e.png' alt='MyWeather-React-Native' width="250"/></a>
 
